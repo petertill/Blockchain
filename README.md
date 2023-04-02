@@ -68,6 +68,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 ## To-dos<br>
-1. Confirmations: Each miner sends a message with a block. You can create a confirmation system to ensure the integrity of the data.
-2. Transactions/data: You could implement transactions or data objects to address double-spending, transaction validation, and coinbase transactions.
+1. Confirmations: Each miner sends a message with a block. You can create a confirmation system to ensure the integrity of the data.<br>
+2. Transactions/data: You could implement transactions or data objects to address double-spending, transaction validation, and coinbase transactions.<br>
 3. levelDB: Once the P2P is initialized, you can create a script to retrieve and write all the blocks into the LevelDB database, validate them, and clean the database as needed.
